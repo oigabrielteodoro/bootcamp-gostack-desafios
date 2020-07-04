@@ -1,0 +1,30 @@
+[submodule "desafio-conceitos-nodejs"]
+	path = desafio-conceitos-nodejs
+	url = https://github.com/oigabrielteodoro/desafio-conceitos-nodejs.git
+[submodule "desafio-conceitos-reactjs"]
+	path = desafio-conceitos-reactjs
+	url = https://github.com/oigabrielteodoro/desafio-conceitos-reactjs.git
+[submodule "desafio-conceitos-react-native"]
+	path = desafio-conceitos-react-native
+	url = https://github.com/oigabrielteodoro/desafio-conceitos-react-native.git
+[submodule "desafio-fundamentos-nodejs"]
+	path = desafio-fundamentos-nodejs
+	url = https://github.com/oigabrielteodoro/desafio-fundamentos-nodejs.git
+[submodule "desafio-database-upload"]
+	path = desafio-database-upload
+	url = https://github.com/oigabrielteodoro/desafio-database-upload.git
+[submodule "desafio-fundamentos-reactjs"]
+	path = desafio-fundamentos-reactjs
+	url = https://github.com/oigabrielteodoro/desafio-fundamentos-reactjs.git
+[submodule "desafio-fundamentos-react-native"]
+	path = desafio-fundamentos-react-native
+	url = https://github.com/oigabrielteodoro/gomarketplace.git
+[submodule "desafio-database-relations"]
+	path = desafio-database-relations
+	url = https://github.com/oigabrielteodoro/desafio-database-relations.git
+[submodule "desafio-reactjs-crud"]
+	path = desafio-reactjs-crud
+	url = https://github.com/oigabrielteodoro/desafio-reactjs-crud.git
+[submodule "desafio-react-native-delivery"]
+	path = desafio-react-native-delivery
+	url = https://github.com/oigabrielteodoro/desafio-react-native-delivery.git
